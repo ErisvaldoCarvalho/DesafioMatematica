@@ -19,3 +19,11 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+jogo_matematica/linux/flutter/generated_plugin_registrant.cc
+jogo_matematica/linux/flutter/generated_plugin_registrant.cc
+jogo_matematica/linux/flutter/generated_plugin_registrant.h
+jogo_matematica/linux/flutter/generated_plugins.cmake
+jogo_matematica/macos/Flutter/GeneratedPluginRegistrant.swift
+jogo_matematica/windows/flutter/generated_plugin_registrant.cc
+jogo_matematica/windows/flutter/generated_plugin_registrant.h
+jogo_matematica/windows/flutter/generated_plugins.cmake
