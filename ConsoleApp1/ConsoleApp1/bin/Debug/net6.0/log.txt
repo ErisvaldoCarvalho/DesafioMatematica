@@ -1,0 +1,8 @@
+Operador: Soma
+X: 1
+Y: 4
+Nível: 0
+Maior X: 5
+Maior Y: 5
+Estrelas 0
+Acertos seguidos: 0

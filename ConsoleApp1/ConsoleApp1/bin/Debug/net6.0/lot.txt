@@ -1,0 +1,8 @@
+Operador: Subtracao
+X: 2
+Y: 0
+Nível: 1
+Maior X: 10
+Maior Y: 10
+Estrelas 0
+Acertos seguidos: 3
